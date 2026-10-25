@@ -132,17 +132,14 @@ indonesia-national-team-sentiment-analysis/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_text_preprocessing.ipynb
-│   ├── 03_exploratory_data_analysis.ipynb
-│   ├── 04_topic_modeling.ipynb
-│   └── 05_sentiment_analysis.ipynb
+│   ├── final_team3_capstone_mikti.ipynb
+│   └── lanjutan_file_diatas_predictive_model.ipynb
 ├── visualizations/
 ├── README.md
 └── requirements.txt
 ```
 
-*The structure above is a suggested organization for the repository, not a claim about the files already included in the project.*
+*The structure above is still dummy report.*
 
 ## 🎓 Project Context
 
