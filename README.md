@@ -139,7 +139,7 @@ indonesia-national-team-sentiment-analysis/
 └── requirements.txt
 ```
 
-*The structure above is still dummy report.*
+*The structure above is still messy report.*
 
 ## 🎓 Project Context
 
